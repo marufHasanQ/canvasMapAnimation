@@ -1,0 +1,2 @@
+good patterns -11.800000000000004 , -16.96, -22.000000000000007
+make it responsive
